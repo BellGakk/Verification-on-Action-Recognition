@@ -6,4 +6,4 @@
 ### GCN/GNN models:
 
 
-[1](ST-GCN)S. Yan, Y. Xiong, and D. Lin, “Spatial temporal graph convolutional networks for skeleton-basedaction recognition,” in AAAI, 2018. 
+[1] (ST-GCN) S. Yan, Y. Xiong, and D. Lin, “Spatial temporal graph convolutional networks for skeleton-basedaction recognition,” in AAAI, 2018. 
