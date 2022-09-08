@@ -13,3 +13,5 @@
 [3] (SR-TSL) C. Si,  Y.  Jing,  W.  Wang,  L.  Wang,  and  T.  Tan,  “Skeleton-based  action  recognition  with  spatialreasoning and temporal stack learning,” in ECCV, 2018.
 
 [4] (motif-GCNs) Y.-H. Wen, L. Gao, H. Fu, F.-L. Zhang, and S. Xia, “Graph cnns with motif and variable temporalblock for skeleton-based action recognition,” in AAAI, vol. 33, 2019.
+
+[5] (DGNN) L. Shi, Y. Zhang, J. Cheng, and H. Lu, “Skeleton-based action recognition with directed graph neuralnetworks,” in CVPR, 2019
