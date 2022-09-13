@@ -25,3 +25,5 @@
 [2] S. Zhang, Y. Yang, J. Xiao, X. Liu, Y. Yang, D. Xie, and Y. Zhuang, “Fusing geometric features forskeleton-based action recognition using multilayer lstm networks,”TMM, vol. 20, no. 9, 2018.
 
 [3] (MANs) C. Xie, C. Li, B. Zhang, C. Chen, J. Han, C. Zou, and J. Liu, “Memory attention networks for skeleton-based action recognition,” arXiv preprint arXiv:1804.08254, 2018.
+
+[4] (VA-RNN-Aug) P. Zhang, C. Lan, J. Xing, W. Zeng, J. Xue, and N. Zheng, “View adaptive neural networks for highperformance skeleton-based human action recognition,” TPAMI, vol. 41, no. 8, 2019.
