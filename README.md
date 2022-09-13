@@ -27,3 +27,10 @@
 [3] (MANs) C. Xie, C. Li, B. Zhang, C. Chen, J. Han, C. Zou, and J. Liu, “Memory attention networks for skeleton-based action recognition,” arXiv preprint arXiv:1804.08254, 2018.
 
 [4] (VA-RNN-Aug) P. Zhang, C. Lan, J. Xing, W. Zeng, J. Xue, and N. Zheng, “View adaptive neural networks for highperformance skeleton-based human action recognition,” TPAMI, vol. 41, no. 8, 2019.
+
+
+### CNN models:
+
+
+[1] (VA-CNN-Aug) P. Zhang, C. Lan, J. Xing, W. Zeng, J. Xue, and N. Zheng, “View adaptive neural networks for highperformance skeleton-based human action recognition,” TPAMI, vol. 41, no. 8, 2019.
+
