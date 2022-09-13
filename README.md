@@ -34,3 +34,10 @@
 
 [1] (VA-CNN-Aug) P. Zhang, C. Lan, J. Xing, W. Zeng, J. Xue, and N. Zheng, “View adaptive neural networks for highperformance skeleton-based human action recognition,” TPAMI, vol. 41, no. 8, 2019.
 
+[2] (SkeleMotion) C.  Caetano,  J.  Sena,  F.  Br ́emond,  J.  A.  Dos  Santos,  and  W.  R.  Schwartz,  “Skelemotion:  A  newrepresentation of skeleton joint sequences based on motion information for 3d action recognition,”in AVSS, 2019
+
+[3] (TSRJI) C. Caetano, F. Br ́emond, and W. R. Schwartz, “Skeleton image representation for 3d action recogni-tion based on tree structure and reference joints,” in SIBGRAPI, 2019
+
+[4] (Skepxel) J. Liu, N. Akhtar, and A. Mian, “Skepxels: Spatio-temporal image representation of human skeletonjoints for action recognition.,” in CVPRW, 2019
+
+[5] (HCN) C. Li, Q. Zhong, D. Xie, and S. Pu, “Co-occurrence feature learning from skeleton data for actionrecognition and detection with hierarchical aggregation,”arXiv preprint arXiv:1804.06055, 2018
