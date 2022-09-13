@@ -15,3 +15,11 @@
 [4] (motif-GCNs) Y.-H. Wen, L. Gao, H. Fu, F.-L. Zhang, and S. Xia, “Graph cnns with motif and variable temporalblock for skeleton-based action recognition,” in AAAI, vol. 33, 2019.
 
 [5] (DGNN) L. Shi, Y. Zhang, J. Cheng, and H. Lu, “Skeleton-based action recognition with directed graph neuralnetworks,” in CVPR, 2019
+
+
+### RNN models:
+
+
+[1] (VA-LSTM) P. Zhang, C. Lan, J. Xing, W. Zeng, J. Xue, and N. Zheng, “View adaptive recurrent neural networksfor high performance human action recognition from skeleton data,” in ICCV, 2017
+
+[2] S. Zhang, Y. Yang, J. Xiao, X. Liu, Y. Yang, D. Xie, and Y. Zhuang, “Fusing geometric features forskeleton-based action recognition using multilayer lstm networks,”TMM, vol. 20, no. 9, 2018.
